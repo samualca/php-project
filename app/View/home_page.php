@@ -7,6 +7,8 @@
 <body>
 
 <ul> HELLO, THIS IS HOME PAGE </ul>
+<ul> HELLO, THIS IS HOME PAGE </ul>
+<ul> HELLOOOOO, ZEZAG </ul>
 
 <?php
 echo $greeting . PHP_EOL;
